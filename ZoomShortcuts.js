@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name             Zoom Shortcuts
 // @namespace        https://greasyfork.org/users/30701-justins83-waze
-// @version          2019.11.26.01
+// @version          2020.03.25.01
 // @description      Adds configurable shortcuts for all zoom levels
 // @author           JustinS83
 // @include          https://www.waze.com/editor*
